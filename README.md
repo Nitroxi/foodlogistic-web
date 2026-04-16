@@ -62,11 +62,8 @@ També s’ha utilitzat una eina d’assistència visual per generar una base in
 
 ## Publicació del prototip
 
-### Repositori del projecte
-[Afegir aquí l’enllaç al repositori]
-
 ### URL pública del prototip
-![img](https://nitroxi.github.io/foodlogistic-web/)
+[Web FoodLogistic](https://nitroxi.github.io/foodlogistic-web/)
 
 ## Analítica i seguiment
 
