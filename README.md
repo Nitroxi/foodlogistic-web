@@ -97,5 +97,5 @@ En una fase posterior, aquesta proposta es podria ampliar amb:
 
 ## Autor
 
-Prototip desenvolupat per: **[El teu nom]**  
+Prototip desenvolupat per: **[Nezar MHghari Boussaada]**  
 Projecte acadèmic de proposta web corporativa per a **FoodLogistic S.A.**
